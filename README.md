@@ -13,7 +13,7 @@ Below is a breakdown of each **structural compartment** and its functionality, r
 | Main Parachute Compartment | Houses main parachute and release servos | PLA+ |
 | Main Parachute Lid | Lid tied to drogue chute; servo-controlled release | PLA+ |
 | Carbon Fiber Rods | Structural frame alignment | Carbon Fiber (Ø4mm) |
-| Clamps | Lock each module on rods | PETG |
+| Clamps | Lock each module on rods | PLA+ |
 | PCB Plate | Holds sensors and main PCB | FR4 / PLA+ Mount |
 | Emergency Compartment | Houses emergency parachute & release system | PLA+ |
 | Emergency Door | Rotating door for emergency parachute | PLA+ |
@@ -57,11 +57,11 @@ These rods ensure **vertical alignment, strength, and stability**, providing a r
 ---
 
 ## 🔩 4. Clamps
-The **clamps** are used to lock each compartment onto the carbon fiber rods.  
+The **red clamps** are used to lock each compartment onto the carbon fiber rods.  
 They are fastened using **M2 screws and nuts**, ensuring secure attachment and easy modular disassembly.
 
 - Color: Red  
-- Material: PETG  
+- Material: PLA+  
 - Fasteners: M2 screws and nuts  
 - Function: Structural locking and height adjustment  
 
@@ -142,11 +142,20 @@ It supplies power to all electronics, including the servos, BLDC motor, sensors,
 
 ## 📸 Gallery
 
-| CAD Model | Manufactured Model |
-|------------|--------------------|
-| ![CAD Model](./assets/cansat_cad.png) | ![Real Model](./assets/cansat_real.jpg) |
+<div align="center">
+
+### 🧱 CAD Model
+<img width="384" height="715" alt="Screenshot 2025-11-08 211547" src="https://github.com/user-attachments/assets/e25a2ada-2a14-4155-965d-6850096d2d3e" />
+
 
 ---
+
+### 🛰️ Real Manufactured Model
+![WhatsApp Image 2025-11-08 at 22 26 55_d042e1ac](https://github.com/user-attachments/assets/09fa0145-0a65-4742-b035-2e6ac998c071)
+
+
+</div>
+
 
 ## 🧩 Key Highlights
 - Modular, serviceable, and lightweight design  
