@@ -1,14 +1,16 @@
-<!-- HEADER ANIMATION -->
+<!-- 🌌 HEADER ANIMATION -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a04e89a-animated-banner.gif" width="100%" alt="In-Space CanSat 2024–25 Banner"/>
+  <img src="https://github.com/user-attachments/assets/9a04e89a-animated-banner.gif" width="90%" alt="In-Space CanSat 2024–25 Banner"/>
 </p>
 
-# 🛰️ In-Space CanSat 2024–25 Structural Design
+<!-- ✨ TITLE -->
+<h1 align="center">🛰️ IN-SPACe CanSat 2024–25 Structural Design</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=false&width=600&lines=High+Altitude+Autonomous+CanSat;Best+Design+Award+Winner+2024%E2%80%9325;Developed+by+PSIT+Vyomnauts;Innovation+Through+Engineering" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=false&width=600&lines=IN-SPACe+Competition+CanSat+2024-25;Best+Design+Award+Winner;Developed+by+PSIT+Vyomnauts;Innovation+Through+Engineering" alt="Typing Animation" />
 </p>
 
+---
 
 This repository contains the detailed CAD model and manufacturing details of our **In-Space CanSat 2024–25** — a compact satellite prototype designed for high-altitude missions and recovery using autonomous systems.  
 
@@ -44,8 +46,11 @@ This repository contains the detailed CAD model and manufacturing details of our
 
 ---
 
-### 🎥 Deployment Test (Animated)
-<img src="https://github.com/user-attachments/assets/animated-parachute.gif" alt="Parachute Deployment Animation" width="500"/>
+### 🎬 Descent Video
+<video width="480" controls>
+  <source src="./assets/cansat_descent.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
