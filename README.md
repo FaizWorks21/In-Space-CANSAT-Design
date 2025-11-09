@@ -1,8 +1,69 @@
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9a04e89a-animated-banner.gif" width="100%" alt="In-Space CanSat 2024–25 Banner"/>
+</p>
+
 # 🛰️ In-Space CanSat 2024–25 Structural Design
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=false&width=600&lines=High+Altitude+Autonomous+CanSat;Best+Design+Award+Winner+2024%E2%80%9325;Developed+by+PSIT+Vyomnauts;Innovation+Through+Engineering" alt="Typing Animation" />
+</p>
+
 
 This repository contains the detailed CAD model and manufacturing details of our **In-Space CanSat 2024–25** — a compact satellite prototype designed for high-altitude missions and recovery using autonomous systems.  
 
-Below is a breakdown of each **structural compartment** and its functionality, referencing both the CAD design and the manufactured model.
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+### 🥇 **Best Design Award**
+<img src="https://github.com/user-attachments/assets/c0309fec-c280-44db-b5dd-c5aede39c9be" alt="Best Design Trophy" width="350"/>
+
+**Awarded:** *Best Design in IN-SPACe CanSat India Student Competition 2024–25*  
+**Organized by:** Astronautical Society of India (ASI) in association with **IN-SPACe** and **ISRO**
+
+> 🏅 *Recognized for innovation, structural integrity, and functional excellence in CanSat mechanical design.*
+
+</div>
+
+---
+
+## 📸 Gallery
+
+<div align="center">
+
+### 🧱 CAD Model
+<img width="384" height="715" alt="CAD Model" src="https://github.com/user-attachments/assets/e25a2ada-2a14-4155-965d-6850096d2d3e" />
+
+---
+
+### 🛰️ Real Manufactured Model
+<img src="https://github.com/user-attachments/assets/09fa0145-0a65-4742-b035-2e6ac998c071" alt="Real Model" width="450"/>
+
+---
+
+### 🎥 Deployment Test (Animated)
+<img src="https://github.com/user-attachments/assets/animated-parachute.gif" alt="Parachute Deployment Animation" width="500"/>
+
+</div>
+
+---
+
+## 🧭 Table of Contents
+
+1. [🪂 Main Parachute Compartment](#-1-main-parachute-compartment)  
+2. [🧢 Main Parachute Lid](#-2-main-parachute-lid)  
+3. [🦾 Carbon Fiber Rods](#-3-carbon-fiber-rods)  
+4. [🔩 Clamps](#-4-clamps)  
+5. [🧠 PCB Plate](#-5-pcb-plate)  
+6. [🚨 Emergency Compartment](#-6-emergency-compartment)  
+7. [🌀 Emergency Door](#-7-emergency-door)  
+8. [⚙️ Gyro Assembly](#-8-gyro-assembly)  
+9. [🔋 Battery Compartment](#-9-battery-compartment)  
+10. [🧱 Assembly Summary](#-assembly-summary)  
+11. [🍀 Key Highlights](#-key-highlights)
 
 ---
 
@@ -140,34 +201,25 @@ It supplies power to all electronics, including the servos, BLDC motor, sensors,
 
 ---
 
-## 📸 Gallery
-
-<div align="center">
-
-### 🧱 CAD Model
-<img width="384" height="715" alt="Screenshot 2025-11-08 211547" src="https://github.com/user-attachments/assets/e25a2ada-2a14-4155-965d-6850096d2d3e" />
-
-
----
-
-### 🛰️ Real Manufactured Model
-![WhatsApp Image 2025-11-08 at 22 26 55_d042e1ac](https://github.com/user-attachments/assets/09fa0145-0a65-4742-b035-2e6ac998c071)
-
-
-</div>
-
-
-## 🧩 Key Highlights
-- Modular, serviceable, and lightweight design  
-- Dual redundancy in parachute deployment  
-- Active stabilization via gyro system  
-- Robust PLA+ and carbon fiber structure  
-- Fully 3D-printed mechanical design  
+## 🍀 Key Highlights
+- ✨ Modular, serviceable, and lightweight design  
+- 🪂 Dual redundancy in parachute deployment  
+- ⚙️ Active stabilization via gyro system  
+- 🧱 Robust PLA+ and carbon fiber structure  
+- 🧾 Fully 3D-printed mechanical design  
 
 ---
 
-> **Developed by:** *Team In-Space CanSat 2024–25*  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/animated-divider.gif" width="80%" alt="Divider Animation">
+</p>
+
+> **Developed by:** *PSIT Vyomnauts — Members: Mohd Faiz & Rahul Kumar*  
 > **Design & Simulation:** SolidWorks 2022  
 > **Material Used:** PLA+ and Carbon Fiber  
 > **Mission Type:** High-altitude data acquisition and autonomous recovery  
 > **Category:** CanSat Structural System Design  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/animated-thanks.gif" alt="Thank you animation" width="400"/>
+</p>
