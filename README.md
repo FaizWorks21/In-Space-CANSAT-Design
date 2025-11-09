@@ -199,7 +199,7 @@ It supplies power to all electronics, including the servos, BLDC motor, sensors,
 
 ## 🧱 Assembly Summary
 
-- **Material:** PLA+ (3D printed) and Carbon Fiber rods  
+- **Material:** PETG ,PLA+ (3D printed) and Carbon Fiber rods  
 - **Fasteners:** M2 screws and nuts  
 - **Alignment:** Modular cylindrical frame  
 - **Design Software:** SolidWorks 2022 SP1.0  
@@ -222,7 +222,7 @@ It supplies power to all electronics, including the servos, BLDC motor, sensors,
 
 > **Developed by:** *PSIT Vyomnauts — Members: Mohd Faiz & Rahul Kumar*  
 > **Design & Simulation:** SolidWorks 2022  
-> **Material Used:** PLA+ and Carbon Fiber  
+> **Material Used:** PETG ,PLA+ and Carbon Fiber  
 > **Mission Type:** High-altitude data acquisition and autonomous recovery  
 > **Category:** CanSat Structural System Design  
 
