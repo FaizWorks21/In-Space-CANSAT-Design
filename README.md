@@ -48,10 +48,12 @@ This repository contains the detailed CAD model and manufacturing details of our
 
 ### 🎬 Descent Video
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/554a7cb0-2a0e-4f0d-b8f1-cc2730af5de4" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/eeedf8cc-936e-4e06-b048-dc230dc6e665" controls width="600"></video>
   <br>
   <em>CANSAT Descent</em>
 </p>
+
+</div> <!-- ✅ Properly closed to restore left alignment below -->
 
 ---
 
